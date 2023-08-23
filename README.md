@@ -6,7 +6,7 @@ The program takes a screenshot of the web page with the sudoku, uses a computer 
 
 <img src="img/sudoku.gif" width="800">
 
-You can read an article explaining the implementation in detail in this [article](www.google.com).
+You can read an article explaining the implementation in detail in this [article](https://medium.com/@pingwie/sudoku-solver-97b996dfe3ce).
 ## Dependencies
 The Python libraries used are: Numpy, Pandas, Cv2, Pyautogui, Time, and Sklearn.
 
