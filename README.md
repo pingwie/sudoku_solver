@@ -4,7 +4,7 @@ This repository contains the code for a sudoku solving program. To keep the proj
 
 The program takes a screenshot of the web page with the sudoku, uses a computer vision model to extract the digits, solves the sudoku, and captures the keyboard and mouse to solve the sudoku on the web page.
 
-<img src="img/sudoku.gif" width="600">
+<img src="img/sudoku.gif" width="800">
 
 You can read an article explaining the implementation in detail in this [article](www.google.com).
 ## Dependencies
